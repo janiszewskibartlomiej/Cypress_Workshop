@@ -1,4 +1,4 @@
-# QA-Has-Power-Cypress
+# Cypress Workshop in STX Next
 
 ## What is needed:
 
